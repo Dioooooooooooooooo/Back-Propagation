@@ -1,0 +1,10 @@
+E:\3rd year 1st sem\CS345F2-(2425) Intelligent Systems 1\Neural Networks\BFNN\bin\Debug\BFNN.exe.config
+E:\3rd year 1st sem\CS345F2-(2425) Intelligent Systems 1\Neural Networks\BFNN\bin\Debug\BFNN.exe
+E:\3rd year 1st sem\CS345F2-(2425) Intelligent Systems 1\Neural Networks\BFNN\bin\Debug\BFNN.pdb
+E:\3rd year 1st sem\CS345F2-(2425) Intelligent Systems 1\Neural Networks\BFNN\obj\Debug\BFNN.csproj.AssemblyReference.cache
+E:\3rd year 1st sem\CS345F2-(2425) Intelligent Systems 1\Neural Networks\BFNN\obj\Debug\BFNN.Form1.resources
+E:\3rd year 1st sem\CS345F2-(2425) Intelligent Systems 1\Neural Networks\BFNN\obj\Debug\BFNN.Properties.Resources.resources
+E:\3rd year 1st sem\CS345F2-(2425) Intelligent Systems 1\Neural Networks\BFNN\obj\Debug\BFNN.csproj.GenerateResource.cache
+E:\3rd year 1st sem\CS345F2-(2425) Intelligent Systems 1\Neural Networks\BFNN\obj\Debug\BFNN.csproj.CoreCompileInputs.cache
+E:\3rd year 1st sem\CS345F2-(2425) Intelligent Systems 1\Neural Networks\BFNN\obj\Debug\BFNN.exe
+E:\3rd year 1st sem\CS345F2-(2425) Intelligent Systems 1\Neural Networks\BFNN\obj\Debug\BFNN.pdb

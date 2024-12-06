@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\3rd year 1st sem\\CS345F2-(2425) Intelligent Systems 1\\Neural Networks\\BFNN\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1016FBDB-1FB4-40D5-9DCC-8776546E744C}|BFNN.csproj|e:\\3rd year 1st sem\\cs345f2-(2425) intelligent systems 1\\neural networks\\bfnn\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1016FBDB-1FB4-40D5-9DCC-8776546E744C}|BFNN.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1016FBDB-1FB4-40D5-9DCC-8776546E744C}|BFNN.csproj|E:\\3rd year 1st sem\\CS345F2-(2425) Intelligent Systems 1\\Neural Networks\\BFNN\\backneural.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1016FBDB-1FB4-40D5-9DCC-8776546E744C}|BFNN.csproj|solutionrelative:backneural.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1016FBDB-1FB4-40D5-9DCC-8776546E744C}|BFNN.csproj|E:\\3rd year 1st sem\\CS345F2-(2425) Intelligent Systems 1\\Neural Networks\\BFNN\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1016FBDB-1FB4-40D5-9DCC-8776546E744C}|BFNN.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1016FBDB-1FB4-40D5-9DCC-8776546E744C}|BFNN.csproj|E:\\3rd year 1st sem\\CS345F2-(2425) Intelligent Systems 1\\Neural Networks\\BFNN\\inputn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1016FBDB-1FB4-40D5-9DCC-8776546E744C}|BFNN.csproj|solutionrelative:inputn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1016FBDB-1FB4-40D5-9DCC-8776546E744C}|BFNN.csproj|E:\\3rd year 1st sem\\CS345F2-(2425) Intelligent Systems 1\\Neural Networks\\BFNN\\ouputn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1016FBDB-1FB4-40D5-9DCC-8776546E744C}|BFNN.csproj|solutionrelative:ouputn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1016FBDB-1FB4-40D5-9DCC-8776546E744C}|BFNN.csproj|E:\\3rd year 1st sem\\CS345F2-(2425) Intelligent Systems 1\\Neural Networks\\BFNN\\hiddenn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1016FBDB-1FB4-40D5-9DCC-8776546E744C}|BFNN.csproj|solutionrelative:hiddenn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\3rd year 1st sem\\CS345F2-(2425) Intelligent Systems 1\\Neural Networks\\BFNN\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "E:\\3rd year 1st sem\\CS345F2-(2425) Intelligent Systems 1\\Neural Networks\\BFNN\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAApwEUAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T07:56:46.553Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "E:\\3rd year 1st sem\\CS345F2-(2425) Intelligent Systems 1\\Neural Networks\\BFNN\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "E:\\3rd year 1st sem\\CS345F2-(2425) Intelligent Systems 1\\Neural Networks\\BFNN\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T07:50:37.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BackNeural.cs",
+              "DocumentMoniker": "E:\\3rd year 1st sem\\CS345F2-(2425) Intelligent Systems 1\\Neural Networks\\BFNN\\BackNeural.cs",
+              "RelativeDocumentMoniker": "BackNeural.cs",
+              "ToolTip": "E:\\3rd year 1st sem\\CS345F2-(2425) Intelligent Systems 1\\Neural Networks\\BFNN\\BackNeural.cs",
+              "RelativeToolTip": "BackNeural.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAwwGAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T07:54:46.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InputN.cs",
+              "DocumentMoniker": "E:\\3rd year 1st sem\\CS345F2-(2425) Intelligent Systems 1\\Neural Networks\\BFNN\\InputN.cs",
+              "RelativeDocumentMoniker": "InputN.cs",
+              "ToolTip": "E:\\3rd year 1st sem\\CS345F2-(2425) Intelligent Systems 1\\Neural Networks\\BFNN\\InputN.cs",
+              "RelativeToolTip": "InputN.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T07:53:47.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HiddenN.cs",
+              "DocumentMoniker": "E:\\3rd year 1st sem\\CS345F2-(2425) Intelligent Systems 1\\Neural Networks\\BFNN\\HiddenN.cs",
+              "RelativeDocumentMoniker": "HiddenN.cs",
+              "ToolTip": "E:\\3rd year 1st sem\\CS345F2-(2425) Intelligent Systems 1\\Neural Networks\\BFNN\\HiddenN.cs",
+              "RelativeToolTip": "HiddenN.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T07:53:36.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OuputN.cs",
+              "DocumentMoniker": "E:\\3rd year 1st sem\\CS345F2-(2425) Intelligent Systems 1\\Neural Networks\\BFNN\\OuputN.cs",
+              "RelativeDocumentMoniker": "OuputN.cs",
+              "ToolTip": "E:\\3rd year 1st sem\\CS345F2-(2425) Intelligent Systems 1\\Neural Networks\\BFNN\\OuputN.cs",
+              "RelativeToolTip": "OuputN.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T07:53:52.69Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
